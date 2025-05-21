@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)  # Allow frontend to communicate with backend
 
 # Environment variables would be better for production
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "use llama api key via groq"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # Database of common Parkinson's drugs and their known side effects
