@@ -7,7 +7,6 @@
 
 A specialized AI-powered web application designed to provide comprehensive information about Parkinson's disease medications, their side effects, and management strategies.
 
-![PD TreatmentAssist Screenshot](https://via.placeholder.com/800x450?text=PD+TreatmentAssist+Screenshot)
 
 ## 🌟 Features
 
